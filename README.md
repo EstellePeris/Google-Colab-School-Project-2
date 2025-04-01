@@ -1,7 +1,7 @@
 # Data Visualization Laboratory Exercises 2
 
 ## Description
-This project was completed using **Google Colab**. Both datasets used in this exercise were obtained from **Kaggle**. The exercise was designed to test our ability to create and interpret visualizations.
+This project was completed using **Google Colab**. Both datasets used in this exercise were obtained from **Kaggle**. The exercise was designed to test our ability to create and interpret data.
 
 ---
 
