@@ -15,8 +15,10 @@ This project was completed using **Google Colab**. Both datasets used in this ex
 ---
 
 ## Datasets Used
-- **Heart Disease Dataset** (Kaggle)
-- **Tesla Stock Data 2025** (Kaggle)
+- **Heart Disease Dataset** (Kaggle)  
+  [Heart Disease Dataset Link](https://www.kaggle.com/ronitf/heart-disease-uci)
+- **Tesla Stock Data 2025** (Kaggle)  
+  [Tesla Stock Data 2025 Link](https://www.kaggle.com/datasets/rohanrao/tesla-stock-data)
 
 ---
 
@@ -29,4 +31,5 @@ You can view the full project and interact with the notebook here:
 ## Tools Used
 - Python
 - Google Colab
+
 
